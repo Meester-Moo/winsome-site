@@ -1,2 +1,2 @@
 # winsome-site
-Recreation of https://winsomewood.com
+Humble recreation of https://winsomewood.com
