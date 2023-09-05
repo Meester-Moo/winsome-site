@@ -1,3 +1,38 @@
+/*********** GLOBAL STYLES ***********/
 html {
-        font-family: "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+    font-family: "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+    box-sizing: border-box;
+    font-size: 18px;
+    color: #00416d;
+    margin: 0px;
 }
+
+/*********** END GLOBAL STYLES ***********/
+
+/*********** TESTING ***********/
+header {
+    border: 3px solid blue;
+}
+
+nav {
+    border: 3px solid green;
+}
+
+.intro {
+    border: 3px solid red;
+}
+
+footer {
+    border: 3px solid purple;
+}
+/*********** END TESTING ***********/
+
+/*********** MEDIA QUERIES ***********/
+
+@media (min-width: 0px) {
+}
+
+@media (min-width: 768px) {
+}
+
+/*********** END MEDIA QUERIES ***********/
